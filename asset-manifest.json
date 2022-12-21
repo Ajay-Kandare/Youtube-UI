@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/YouTube-UI/static/js/main.7a3422fd.js",
+    "static/media/Thumbnail.jpg": "/YouTube-UI/static/media/Thumbnail.d07fdf5fb59dc0bfef80.jpg",
+    "index.html": "/YouTube-UI/index.html",
+    "main.7a3422fd.js.map": "/YouTube-UI/static/js/main.7a3422fd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a3422fd.js"
+  ]
+}
